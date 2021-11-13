@@ -1,11 +1,11 @@
 import React from 'react';
 
-const OrderCardetails = () => {
+const Payment = () => {
     return (
         <div>
-            
+            <h1>Payment options are coming soon</h1>
         </div>
     );
 };
 
-export default OrderCardetails;
+export default Payment;
