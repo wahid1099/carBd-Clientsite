@@ -8,5 +8,6 @@
 <h4>4.With this type of project a user can buy any car add reviews and they also cancel their orders</h4>
  <h4>5.I have used node js for server site and mongodb for database .</h4>
  <h4>6.A admin can make other user admin .He can add product manage products or delete any products. He can also manage orders and cancel them</h4>
+ <h4>7. For admin log in use admin@admin.com and password=123456  </h4>
  <h1>Live site link: https://cardealer-41de4.web.app/</h1>
  ---------------------------------------------<>----------------------------------------------------------------------------------------------<>----------------------------------------------------------------------------------------------<>----------------------------------------------------------------------------------------------<>---------------------
